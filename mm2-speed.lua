@@ -115,12 +115,12 @@ local holdingS = false
 local holdingAorD = false
 local boostForce = 170
 
-local speedBoost = 220
+local speedBoost = 30
 local speedSistemaAtivo = false
 local impulsoAtivo = true
 
 local baseWalkSpeed = 16
-local boostPower = 50
+local boostPower = 80
 local cooldown = 0
 local lastTick = 0
 
